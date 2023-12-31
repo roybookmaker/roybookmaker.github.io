@@ -157,11 +157,11 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-0r93xgMeosTTmSxdNORBVJ+3boIMH+XwI9q5HTJgcEI=",
+      "hash": "sha256-fipPmRrwQUx4syYIY76Ul56TLg6qmo1Vr101TymThxY=",
       "url": "roybookmaker.github.io.styles.css"
     },
     {
-      "hash": "sha256-6FxHmivld4SXrn\/opV1IPM7qv2Jd42MrGEN1Fpbvavg=",
+      "hash": "sha256-2nqAD4LKdx6RIOMt4pcLyuSMAujRjKXVuVaCq0M1ntU=",
       "url": "css\/app.css"
     },
     {
@@ -175,6 +175,30 @@
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "url": "favicon.png"
+    },
+    {
+      "hash": "sha256-FJSK7byvkGqcrKs43l\/\/iJveiH7L1xC4oa2jroTGVHc=",
+      "url": "fonts\/RobotoCondensed-Bold.ttf"
+    },
+    {
+      "hash": "sha256-bRKcQQxjGVW7TdiU\/kxEcp9PJFncEheMhu3qaEAmGmE=",
+      "url": "fonts\/RobotoCondensed-BoldItalic.ttf"
+    },
+    {
+      "hash": "sha256-Mq0orU8cY8hRpzw\/YFTAneYzdH2\/mtVBi5zZpOsuGOk=",
+      "url": "fonts\/RobotoCondensed-Italic.ttf"
+    },
+    {
+      "hash": "sha256-HsPU5GrG4nsBUr+\/bFqitJPWjTEi1o8P27\/pLHl1kwA=",
+      "url": "fonts\/RobotoCondensed-Light.ttf"
+    },
+    {
+      "hash": "sha256-xsJoSoUBv9rN69\/KmrzAfU+AlD4WI9ybnAxZ+vih8Y8=",
+      "url": "fonts\/RobotoCondensed-LightItalic.ttf"
+    },
+    {
+      "hash": "sha256-BNJCSXirk81SSXCv8hIA7Ig1gXaZKvcY7Nn+lr5a5Lg=",
+      "url": "fonts\/RobotoCondensed-Regular.ttf"
     },
     {
       "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
@@ -193,5 +217,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "CfMbLwmM"
+  "version": "aBsufO0D"
 };

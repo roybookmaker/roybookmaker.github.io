@@ -140,12 +140,17 @@ hr[b-0nctt14i1m] {
     width: max-content;
     white-space: nowrap;
     transition: color 0.4s ease;
-    font-family: 'Roboto', sans-serif !important;
+    font-family: 'RobotoCondensed', sans-serif !important;
 }
 
     .logo-nav:hover > .nav-link[b-c3e0w772xg] {
         color: #fff;
     }
+
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url('../fonts/robotocondensed-regular.ttf') format('truetype');
+}
 /* /Pages/Backend.razor.rz.scp.css */
 .componentcontainer[b-orlyudj33v] {
     padding: 0 10px 0 0;
