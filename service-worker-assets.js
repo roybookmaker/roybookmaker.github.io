@@ -191,11 +191,7 @@
     {
       "hash": "sha256-jB5jwRNcjg\/71J+tH0cVwmNR0rjingEVy\/t9woAXJEM=",
       "url": "manifest.webmanifest"
-    },
-    {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
-      "url": "sample-data\/weather.json"
     }
   ],
-  "version": "s5y6EPfm"
+  "version": "COzmNV9Z"
 };
