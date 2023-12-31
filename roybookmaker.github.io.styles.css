@@ -149,7 +149,51 @@ hr[b-0nctt14i1m] {
 
 @font-face {
     font-family: 'RobotoCondensed';
-    src: url('../fonts/robotocondensed-regular.ttf') format('truetype');
+    src: url('/fonts/robotocondensed-regular.ttf') format('truetype');
+}
+/* /Pages/About.razor.rz.scp.css */
+.componentcontainer[b-auf5xe5lkc] {
+    padding: 0 10px 0 0;
+    max-height: calc( 100vh - 40px );
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #333 #121313;
+    font-family: 'RobotoCondensed', sans-serif !important;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url('/fonts/robotocondensed-regular.ttf') format('truetype');
+}
+
+.componentcontainer > h1[b-auf5xe5lkc], a[b-auf5xe5lkc], p[b-auf5xe5lkc] {
+    margin: 0px !important;
+}
+
+.componentcontainer > h4[b-auf5xe5lkc] {
+    margin-top: 20px !important;
+}
+
+.logoseparator[b-auf5xe5lkc] {
+    color: #3498db;
+}
+
+.highlighter[b-auf5xe5lkc] {
+    color: #3498db !important;
+}
+
+.highlighter-link[b-auf5xe5lkc] {
+    color: #f1c40f !important;
+}
+
+    .highlighter-link:hover[b-auf5xe5lkc] {
+        background-color: #f1c40f !important;
+        color: #000 !important;
+        padding: 0 5px;
+    }
+
+.pathtext[b-auf5xe5lkc] {
+    color: #777;
 }
 /* /Pages/Backend.razor.rz.scp.css */
 .componentcontainer[b-orlyudj33v] {
@@ -158,6 +202,12 @@ hr[b-0nctt14i1m] {
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: #333 #121313;
+    font-family: 'RobotoCondensed', sans-serif !important;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url('/fonts/robotocondensed-regular.ttf') format('truetype');
 }
 
 .componentcontainer > h1[b-orlyudj33v], a[b-orlyudj33v], p[b-orlyudj33v] {
@@ -196,6 +246,12 @@ hr[b-0nctt14i1m] {
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: #333 #121313;
+    font-family: 'RobotoCondensed', sans-serif !important;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url('/fonts/robotocondensed-regular.ttf') format('truetype');
 }
 
     .componentcontainer > h1[b-96w2awudpe], a[b-96w2awudpe], p[b-96w2awudpe] {
@@ -235,6 +291,12 @@ hr[b-0nctt14i1m] {
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: #333 #121313;
+    font-family: 'RobotoCondensed', sans-serif !important;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url('/fonts/robotocondensed-regular.ttf') format('truetype');
 }
 
     .componentcontainer > h1[b-ihybnzs6h1], a[b-ihybnzs6h1], p[b-ihybnzs6h1] {

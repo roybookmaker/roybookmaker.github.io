@@ -3,7 +3,7 @@ html, body {
 }
 @font-face {
     font-family: 'RobotoCondensed';
-    src: url('../fonts/robotocondensed-regular.ttf') format('truetype');
+    src: url('/fonts/robotocondensed-regular.ttf') format('truetype');
 }
 
 #app {

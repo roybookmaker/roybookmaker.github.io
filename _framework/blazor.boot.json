@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "roybookmaker.github.io",
   "resources": {
-    "hash": "sha256-4E479kcIR21HmoA3aBAHFI7Y9xXEcnp6NxRAeEy4ONQ=",
+    "hash": "sha256-HNb6NXTzzS2l730eNGCW0LXSQoLT4QewIrQw2cxxt7s=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.d8rcxjqq3g.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-lXwhdv0Is9FMH/j0+WH3zoNWAGLbVaONtGucJ/4URQ0=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
-      "roybookmaker.github.io.wasm": "sha256-lLzxmeYfWL8QI+z+5yTMnA8VP++jRviakZ4M7LlzPI4=",
+      "roybookmaker.github.io.wasm": "sha256-Nk2q8avsEVU7XMwDSEKhjXuTAWR7jE0iZPOAM1CxZks=",
       "System.Collections.Concurrent.wasm": "sha256-/iT3Y71AMV0IxlknaXWQf8WJXGsB5oDfys+6PzvYG34=",
       "System.Collections.wasm": "sha256-At+zC8Yky7ODdUOl7TOgtaNL8Mq3CVTkbSOPWqTxedI=",
       "System.ComponentModel.wasm": "sha256-Kg+Te+dUBA6OiPS3uVj+Poyamhf9bMlcL96uc+bTYWc=",

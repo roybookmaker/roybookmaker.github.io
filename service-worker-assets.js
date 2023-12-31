@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-2Dir+y+xKopyI1ZIGZ4af\/HHR7elKcUAYJjccKyxZd8=",
+      "hash": "sha256-U5fJbeWJ8+wdj83pa0dxQnvJpI82TUQvaTd7GRKZFUc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-lLzxmeYfWL8QI+z+5yTMnA8VP++jRviakZ4M7LlzPI4=",
+      "hash": "sha256-Nk2q8avsEVU7XMwDSEKhjXuTAWR7jE0iZPOAM1CxZks=",
       "url": "_framework\/roybookmaker.github.io.wasm"
     },
     {
@@ -157,11 +157,11 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-fipPmRrwQUx4syYIY76Ul56TLg6qmo1Vr101TymThxY=",
+      "hash": "sha256-AlmI9O3ZeMLyLn9M\/hrDAWTIuzFlU\/mSJSktMJwLHBc=",
       "url": "roybookmaker.github.io.styles.css"
     },
     {
-      "hash": "sha256-2nqAD4LKdx6RIOMt4pcLyuSMAujRjKXVuVaCq0M1ntU=",
+      "hash": "sha256-7+LVTsKnv+4FzYMKJs0W\/VDFjaO\/SaaATHJy\/GZg+RI=",
       "url": "css\/app.css"
     },
     {
@@ -217,5 +217,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "aBsufO0D"
+  "version": "jGJ5ZOM3"
 };
