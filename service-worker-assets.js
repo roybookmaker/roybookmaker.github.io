@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-2Dir+y+xKopyI1ZIGZ4af\/HHR7elKcUAYJjccKyxZd8=",
+      "hash": "sha256-rFEJOUqwTT6EXHLx98wkd0KWjwN9hRHqoK9Tae5cdaU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-lLzxmeYfWL8QI+z+5yTMnA8VP++jRviakZ4M7LlzPI4=",
+      "hash": "sha256-df55Qq8kIBhgacecIda4B2i8DnU1W6AnzDsHc7RXwz4=",
       "url": "_framework\/roybookmaker.github.io.wasm"
     },
     {
@@ -129,7 +129,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-XDAUdscjDeTldQkUy2wMTTTxs8jOmZD5isWafjA2uig=",
+      "hash": "sha256-Y5pzKRRkcST5781s\/z4FodEVG57m\/+ifrWFqKBq7iBk=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-kai\/GlKN4emhU1zeOfYYPR6\/GBblGs4I0G3lDibOGvc=",
+      "hash": "sha256-nXObyp7A5ovhFJgHiDNQj8PSR\/8EtGAlBzE+LCf2h3M=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -185,7 +185,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-amf1UWCArk7eEiESLK5afp9vHwrn2EYORGfhtnq4xTA=",
+      "hash": "sha256-0FpnpYC\/6hbGfuglkZ4VKvU9eYkJUhVn0NKzvxqnJng=",
       "url": "index.html"
     },
     {
@@ -197,5 +197,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "olES085K"
+  "version": "s5y6EPfm"
 };
